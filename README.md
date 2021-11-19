@@ -1,1 +1,1 @@
-# azure-automate-geirno
+# azure-automate-geirnoOppgave 2
