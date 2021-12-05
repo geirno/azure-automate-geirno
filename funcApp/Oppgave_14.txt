@@ -1,0 +1,1 @@
+ .\funcApp\cleanup.ps1 -resourceGroupName 'geir-workshop-56ogs24i47kt6'
