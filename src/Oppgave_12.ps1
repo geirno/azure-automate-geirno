@@ -1,0 +1,1 @@
+Resurser slettet manuelt
