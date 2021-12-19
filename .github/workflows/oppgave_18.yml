@@ -1,7 +1,7 @@
 name: oppgave 18
 
 on: [ workflow_dispatch ]
-     
+ # test    
 jobs:
   job1:
     defaults:
